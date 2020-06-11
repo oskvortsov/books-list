@@ -6,3 +6,4 @@
 - [x] Learning React: Functional Web Development with React and Redux
 - [x] Pro Angular (Adam Freeman)
 - [x] The Passionate Programmer (Chad Flower)
+- [x] Grok algorithms. (Bhargava Aditya)
