@@ -7,3 +7,4 @@
 - [x] Pro Angular (Adam Freeman)
 - [x] The Passionate Programmer (Chad Flower)
 - [x] Grok algorithms. (Bhargava Aditya)
+- [x] CSS Secrets: Better Solutions to Everyday Web Design Problems (Lea Verou)
